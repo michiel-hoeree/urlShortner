@@ -1,0 +1,8 @@
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 15:37:37] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:persistentgreeter:Visited the greet page
+DEBUG:persistentgreeter:Hallo, tom  tomson
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 15:37:37] "GET /greet HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 15:37:50] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:persistentgreeter:Visited the greet page
+DEBUG:persistentgreeter:Hallo, tom fdqkjl tomson
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 15:37:50] "GET /greet HTTP/1.1" 200 -

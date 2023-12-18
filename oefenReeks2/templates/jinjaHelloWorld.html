@@ -1,0 +1,9 @@
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+<h1>hello world</h1>
+
+<ul>
+    {% for student in students %}
+        <li>{{student[0]}} {{student[1]}}</li>
+    {% endfor %}
+</ul>

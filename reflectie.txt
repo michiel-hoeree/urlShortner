@@ -1,0 +1,13 @@
+Welke leerstof was nieuw voor mij?
+Het gebruik van flask en sqlite waren nieuw voor mij.
+
+
+Hoe moeilijk waren de oefeningen en het project?
+De oefeningen waren niet al te moeilijk eens ik de nieuwe elementen onder de knie had.
+
+
+
+In wat voor andere projecten zouden deze technieken van pas kunnen komen?
+
+Het gebruik van een meer bare bones web framework kan later van pas komen.
+Als ik in mijn vrije tijd eens een website zou willen maken zou ik het waarschijnlijk doen met flask omdat ik veel controle heb over hou het werkt
