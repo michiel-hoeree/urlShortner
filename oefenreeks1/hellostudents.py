@@ -2,7 +2,7 @@ import sqlite3
 from flask import Flask
 
 
-con = sqlite3.connect("student.db")
+con = sqlite3.connect("students.db")
 cur = con.cursor()
 cur.execute("SELECT * FROM Students")
 rows = cur.fetchall()
@@ -23,3 +23,5 @@ def studentList():
     #     <li>Second Item</li>
     #     <li>Third Item</li>
     # </ol>
+if __name__ == '__main__':
+    app.run()
